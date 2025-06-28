@@ -1,0 +1,4 @@
+HOW TO USE THIS :-
+1. Install cv2 , mediapipe as mp , pyautogui in cmd by using (pip install ____)
+2. Then run it
+3. After running use your head for curser movement and blink your left eye for clicking or selecting
